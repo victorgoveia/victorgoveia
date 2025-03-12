@@ -99,16 +99,16 @@ Me chamo Victor Goveia, tenho 22 anos e sou natural de São Paulo. Concluí a gr
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###
 
 <p>
-  <img 
+<!--   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=victorgoveia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-  />
+  /> -->
 
   <img 
     align="left" 
@@ -116,4 +116,25 @@ Me chamo Victor Goveia, tenho 22 anos e sou natural de São Paulo. Concluí a gr
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgoveia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
+
+---
+
+### 🌍 Conecte-se comigo
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/victorgoveia/" target="_blank">
+        <img alt="LinkedIn" title="LinkedIn" width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+    </a>
+    &nbsp;
+    <a href="mailto:victor.goov@gmail.com" target="_blank">
+        <img alt="Gmail" title="Gmail" width="30px" 
+            src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
+    </a>
+    &nbsp;
+    <a href="https://wa.me/5511953160383" target="_blank">
+        <img alt="WhatsApp" title="WhatsApp" width="30px" 
+            src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
+    </a>
 </p>
