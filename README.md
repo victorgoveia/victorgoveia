@@ -4,22 +4,19 @@
 
 👋 Olá, me chamo Victor Goveia!
 
-💻 Apaixonado por tecnologia
-🚀 Experiência com Python, Django, SQL, APIs, Docker, Cloud e Power BI
-📊 Foco em dados, backend, automação e análise
-
-🌟 Sobre mim
-
 Tenho 22 anos, sou formado em Tecnologia em Banco de Dados pela FIAP e apaixonado por tecnologia. 
 Atualmente trabalho em desenvolvimento de aplicações focadas em processamento de dados, APIs e automação. 
-Estou em transição de Analista para Engenheiro de Dados, me interesso por arquitetura de software, otimização de consultas e infraestrutura na nuvem.
+Estou em transição de Analista para Engenheiro de Dados, me interesso por arquitetura de software e infraestrutura na nuvem.
+
+📊 Foco em dados, backend, automação e análise
 
 📌 O que você vai encontrar aqui
 
 🔹 Projetos de integração de dados com APIs
+
 🔹 Automação de tarefas e processamento de informações
+
 🔹 Aplicações web com Django e Streamlit
-🔹 Experimentos com bancos de dados e otimização de queries
 
 ---
 
