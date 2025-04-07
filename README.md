@@ -4,9 +4,9 @@
 
 👋 Olá, me chamo Victor Goveia!
 
-Tenho 22 anos, sou formado em Tecnologia em Banco de Dados pela FIAP e apaixonado por tecnologia. 
-Atualmente trabalho em desenvolvimento de aplicações focadas em processamento de dados, APIs e automação. 
-Estou em transição de Analista para Engenheiro de Dados, me interesso por arquitetura de software e infraestrutura na nuvem.
+Tenho 22 anos, sou formado em Tecnologia em Banco de Dados pela FIAP, pós graduando em Machine Learning Engineering e apaixonado por tecnologia. 
+Atualmente trabalho em desenvolvimento de aplicações focadas em processamento de dados, APIs e automação.
+Me interesso por engenharia e análise de dados, arquitetura de software e infraestrutura na nuvem.
 
 📊 Foco em dados, backend, automação e análise
 
@@ -116,13 +116,6 @@ Estou em transição de Analista para Engenheiro de Dados, me interesso por arqu
 ###
 
 <p>
-<!--   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victorgoveia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-  /> -->
 
   <img 
     align="left" 
