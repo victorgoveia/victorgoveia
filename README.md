@@ -8,16 +8,6 @@ Tenho 22 anos, sou formado em Tecnologia em Banco de Dados pela FIAP, pós gradu
 Atualmente trabalho em desenvolvimento de aplicações focadas em processamento de dados, APIs e automação.
 Me interesso por engenharia e análise de dados, arquitetura de software e infraestrutura na nuvem.
 
-📊 Foco em dados, backend, automação e análise
-
-📌 O que você vai encontrar aqui
-
-🔹 Projetos de integração de dados com APIs
-
-🔹 Automação de tarefas e processamento de informações
-
-🔹 Aplicações web com Django e Streamlit
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -112,18 +102,6 @@ Me interesso por engenharia e análise de dados, arquitetura de software e infra
 />
 <br/>
 <br/>
-
-###
-
-<p>
-
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgoveia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
 ---
 
