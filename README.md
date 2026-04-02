@@ -4,7 +4,7 @@
 
 👋 Olá, me chamo Victor Goveia!
 
-Tenho 22 anos, sou formado em Tecnologia em Banco de Dados pela FIAP, pós graduando em Machine Learning Engineering e apaixonado por tecnologia. 
+Tenho 23 anos, sou formado em Tecnologia em Banco de Dados pela FIAP, pós graduado em Machine Learning Engineering e apaixonado por tecnologia. 
 Atualmente trabalho em desenvolvimento de aplicações focadas em processamento de dados, APIs e automação.
 Me interesso por engenharia e análise de dados, arquitetura de software e infraestrutura na nuvem.
 
